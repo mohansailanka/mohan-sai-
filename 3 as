@@ -1,0 +1,6 @@
+n=5 
+for i  in range (n,0,-1):
+space = (n-i)*" "
+print(space,end=" ")
+for j in range(j,end=" ")
+print()
